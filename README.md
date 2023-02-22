@@ -25,8 +25,10 @@ Online Reputation Management
 Social Media Marketing
 
 ## Deployment
+https://yaneyalvarado.github.io/Challenge-1/
 
 ## GitHub
+https://github.com/yaneyalvarado/Challenge-1
 
 ## Mock-up
 <img src="./horiseon-image.png"/>
